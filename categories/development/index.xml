@@ -5,10 +5,19 @@
     <link>https://gitboo.github.io/categories/development/</link>
     <description>Recent content in Development on Boo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 19 Dec 2018 11:47:02 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 14:10:41 +0900</lastBuildDate>
     
 	<atom:link href="https://gitboo.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hiboo</title>
+      <link>https://gitboo.github.io/hiboo/</link>
+      <pubDate>Wed, 19 Dec 2018 14:10:41 +0900</pubDate>
+      
+      <guid>https://gitboo.github.io/hiboo/</guid>
+      <description>안녕하세요~ 오바~ 오바~~</description>
+    </item>
     
     <item>
       <title>Hello</title>
